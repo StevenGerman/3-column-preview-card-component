@@ -216,6 +216,9 @@ button{
     button:hover{
         border: 2px solid #fff;
         color: #fff;
+        transform: scalex(1.05);
+
+        transition: all 0.3s;
         
     }
     .sedans{
