@@ -52,6 +52,7 @@ main{
     display: grid;
     grid-template-rows: repeat(5,1fr);
     padding: 20px;
+    color: var(--vary-light-gray);
 }
 
 .section__logo{
@@ -171,6 +172,9 @@ main{
     
     }
     
+    .section{
+        width: 300px;
+    }
 
     .section--sedans{
         margin-left: 20px;
