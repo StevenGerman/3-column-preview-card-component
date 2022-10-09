@@ -81,14 +81,18 @@ main{
     font-family: 'Big Shoulders Display',sans-serif;
     font-size: 3em;
     padding-left: 20px;
+    padding-bottom: 20px;
 }
 .section__description-p{
     width: 100%;
-    padding-right: 20px;
+    padding-right: 60px;
     text-align: left;
+    font-weight: 400;
     font-family: 'Lexend Deca', sans-serif;
-    font-size: 1.2em;
+    font-size: 14px;
     padding-left: 20px;
+    color: var(--vary-light-gray);
+    opacity: 0.7;
 }
 .section__button{
     /*background-color: brown;*/
